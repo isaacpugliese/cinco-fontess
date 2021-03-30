@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Caveat:wght@600&family=Banger:wght@100&family=Ravi+Prakash&family=Satisfy&display=swap');
+
+body{
+background: rgb(0,139,139);
+text-align: center;
+}
+
+h1{
+text-decoration: underline ;
+color: black;
+}
+
+h2{
+font-size: 24px;
+}
+
+p#text-1{ 
+font-family: 'Akaya Telivigala', cursive;
+font-size: 20px;  
+}
+
+h3{
+font-size: 24px;
+}
+p#text-2{
+font-family: 'Caveat', cursive;
+font-size: 20px;    
+}
+
+h4{
+font-size: 24px;
+}
+p#text-3{
+font-family: 'Bangers', cursive;
+font-size: 20px;  
+}
+
+
+h5{
+font-size: 24px;  
+}
+p#text-4{
+font-family: 'Ravi Prakash', cursive;
+font-size: 20px;  
+}
+
+
+h6{
+font-size: 24px;
+}
+p#text-5{
+font-family: 'Satisfy', cursive;
+font-size: 20px;  
+}
